@@ -1,1 +1,1 @@
-# Pytorch-geometric GNN tutorial for node classification
+# Pytorch-geometric(PyG) GNN tutorial for node classification
